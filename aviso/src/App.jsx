@@ -11,7 +11,6 @@ function App() {
   return (
     <Router>
       {/* Navegación básica */}
-     
       <Routes>
         {/* Ruta principal que muestra tu contenido original */}
         <Route
